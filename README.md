@@ -6,4 +6,4 @@ This repository for the EDS 223 class with Annie Adams: Geospatial Analysis & Re
 
 
 ## References: 
-- https://eds-223-geospatial.github.io/ 
+- [Course Website](https://eds-223-geospatial.github.io/)
