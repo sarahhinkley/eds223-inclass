@@ -53,3 +53,6 @@ week1/data/
 
 # Data folder for week 5 materials\
 week5/data/
+
+# Landsat data folder for week 7 materials
+week7/landsat/
